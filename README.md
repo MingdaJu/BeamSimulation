@@ -28,3 +28,6 @@ Ensure you have Node.js installed on your local machine.
 2. Navigate to the project directory:
    ```bash
    cd mechanical-simulation-demo
+
+
+<img width="3801" height="1767" alt="image" src="https://github.com/user-attachments/assets/46b1a18f-77bb-4b42-950c-b7094b19b6a2" />
